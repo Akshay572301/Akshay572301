@@ -19,7 +19,7 @@
 <a href="https://codeforces.com/profile/thefarseen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="thefarseen" height="30" width="40" /></a>
 </p>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farseenmanekhan1232&" alt="farseenmanekhan1232" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay572301&" alt="Akshay572301" /></p>
 <hr>
 
 
