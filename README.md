@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Development, Programming**
 
-- 📫 How to reach me **https://linktr.ee/mohdfarseen**
+- 📫 How to reach me **https://linktr.ee/akshay**
 
 
 <h4 align="left">Connect with me:</h4>
