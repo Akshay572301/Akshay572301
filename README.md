@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Gowda</h1>
 <h3 align="center">I Like Learning Whatever I bump Into</h3>
 <br>
-<p align="center"> <a href="https://twitter.com/AkshayG03247837" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_farseen?logo=twitter&style=for-the-badge" alt="mohd_farseen" /></a> </p>
+<p align="center"> <a href="https://twitter.com/AkshayG03247837" target="blank"><img src="https://img.shields.io/twitter/follow/akshay?logo=twitter&style=for-the-badge" alt="akshay gowda" /></a> </p>
 
 <hr>
 
