@@ -22,7 +22,7 @@ I'm a self-taught passionate Software & DevOps Engineer from India
 🌱 &nbsp;I'm on track with learning more about BigData, MLOps, DevOps and Software Architecture.\
 ⚡ &nbsp;**Fun fact:** I once tried 'console.log' in real life… didn’t go as planned.\
 ❤️ &nbsp;I'm a Data Science enthusiast & an open-source advocate love to build fun experiments.\
-💬 &nbsp;Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+💬 &nbsp;Ask me about anything [here](https://github.com/AkshayGowda-repo/AkshayGowda-repo/issues)
 
 
 
